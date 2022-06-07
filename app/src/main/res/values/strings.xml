@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan6_2</string>
+        <string
+            name="mapbox_access_token">pk.eyJ1IjoiaGF5cHAiLCJhIjoiY2w0M29vZGI2MDF0eTNib2k5MXBkZ3cyMyJ9.Abl9ebTr5q4m8r5vcZG-VA</string>
+</resources>
